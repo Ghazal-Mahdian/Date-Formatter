@@ -9,7 +9,7 @@ and I'm thrilled to share my journey of learning JavaScript!
 ## Date-Formatter 
 
 In this project, I gained experience working with the JavaScript Date object, exploring its methods and properties, 
-and learning how to format dates correctly.[![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/july.png)]
+and learning how to format dates correctly.
 
 
 ## Demo 
