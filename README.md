@@ -6,10 +6,10 @@ and I'm thrilled to share my journey of learning JavaScript!
 
 
 
-## Date-Formatter [![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/july.png)]
+## Date-Formatter 
 
 In this project, I gained experience working with the JavaScript Date object, exploring its methods and properties, 
-and learning how to format dates correctly.
+and learning how to format dates correctly.[![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/july.png)]
 
 
 ## Demo 
@@ -24,5 +24,5 @@ and learning how to format dates correctly.
 
 
 [![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/web.png)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-the-date-object-by-building-a-date-formatter)
-Copyright (c) 2024 freeCodeCamp.
+
    
