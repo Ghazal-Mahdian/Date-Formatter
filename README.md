@@ -1,15 +1,15 @@
 
 ## Intro
 
-Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp
-
-and I'm excited to share my journey of learning JavaScript! 
+Hey there! I'm currently enrolled in the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp, 
+and I'm thrilled to share my journey of learning JavaScript!
 
 
 
 ## Date-Formatter
 
-In this project I learned how to work with the JavaScript Date object, including its methods and properties. Also how to correctly format dates.
+In this project, I gained experience working with the JavaScript Date object, exploring its methods and properties, 
+and learning how to format dates correctly.
 
 
 ## Demo
