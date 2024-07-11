@@ -11,9 +11,10 @@ and I'm excited to share my journey of learning JavaScript!
 In this project I learned how to work with the JavaScript Date object, including its methods and properties. Also how to correctly format dates.
 
 ## Demo
-[![View site - GH Pages](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/Date-formatter/main/index.html)
+[![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/Date-formatter/main/index.html)
 
-![javascript](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/date-formatter.png)
+[![javascript](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/date-formatter.png)](https://raw.githack.com/Ghazal-Mahdian/Date-formatter/main/index.html)
+
 
 
 ## Source
